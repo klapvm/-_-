@@ -1,0 +1,26 @@
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.exe
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.deps.json
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.runtimeconfig.json
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.runtimeconfig.dev.json
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.dll
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.pdb
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.AssemblyInfo.cs
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.dll
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.pdb
+C:\Users\студент\source\repos\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.genruntimeconfig.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.exe
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.deps.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.runtimeconfig.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.runtimeconfig.dev.json
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.dll
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\bin\Debug\netcoreapp3.1\BurKla10Pract.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.csprojAssemblyReference.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.AssemblyInfoInputs.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.AssemblyInfo.cs
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.csproj.CoreCompileInputs.cache
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.dll
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.pdb
+\\192.168.0.131\студент_доступ\!!!ИСиП\ИСиП 20-11-1\!Практика\Бурдаев Савелий\BurKla10Pract\BurKla10Pract\obj\Debug\netcoreapp3.1\BurKla10Pract.genruntimeconfig.cache
